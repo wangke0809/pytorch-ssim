@@ -72,3 +72,8 @@ while ssim_value < 0.95:
 
 ## Reference
 https://ece.uwaterloo.ca/~z70wang/research/ssim/
+
+
+## mssim
+
+https://github.com/jorge-pessoa/pytorch-msssim
